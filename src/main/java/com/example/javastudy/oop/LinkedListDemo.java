@@ -8,6 +8,7 @@ public class LinkedListDemo {
         sites.add("Runoob");
         sites.add("Taobao");
         sites.add("Weibo");
+        sites.add("git操作练习");
         System.out.println(sites);
         sites.addFirst("head");
         sites.addLast("tail");
